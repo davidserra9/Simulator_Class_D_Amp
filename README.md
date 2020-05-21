@@ -22,7 +22,7 @@ As I have said before, one important point of this project is to do not use Matl
 A program that creates a pulse train with the timeHigh/timeLow, amplitude and frequency chosen by the user. The timeHigh parameter is the percentage of the time of one period in which the signal stays at the high level.
 Besides having the possibility of the Pulse Train as the input signal, the user may have other posibilities such as the Triangular Signal or a Sinusoid Wave.
 
-  <img src="img/inputSignal.JPG" width="300" align="center">
+  <img src="img/inputSignal.JPG" width="157" align="center">
 
 
 ### 2.3. Pulse Width Modulation (pwm.m)
