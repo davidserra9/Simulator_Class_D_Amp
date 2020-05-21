@@ -26,7 +26,7 @@ Besides having the possibility of the Pulse Train as the input signal, the user 
  
 An example of the plot of the Triangular Signal and the Input:
 
-  <img src="img/example1.JPG" width="157" align="center">
+  <img src="img/example1.JPG" width="622" align="center">
 
 ### 2.3. Pulse Width Modulation (pwm.m)
 This program makes the comparison between the Triangular Siganl and the Pulse Train obtaining the maximum value.
