@@ -1,7 +1,7 @@
 # Class-D Amplifier Simulator with any Matlab Toolbox
 
 ## 1. Introduction
-The objective of this repository is to make and show a system that simulates a Clas-D amplifier in a program without a Matlab Toolbox.
+The objective of this repository is to make and show a system that simulates a Class-D amplifier in a program without a Matlab Toolbox.
 
 A class-D Amplifier or a switching amplifier is an electronicamplifier in which the amplifying devices operate as electronic switches, and not as linear gain devices as in other amplifiers. They operate by rapidly switching back and forth between the supply rails, being fed by a modulator using pulse width to encode the audio input into a pulse train. The audio escapes through a simple low-pass filter into the loudspeaker. The high-frequency pulses are blocked. Since the pairs of output transistors are never conducting at the same time, there is no other path for current flow apart from the low-pass filter/loudspeaker. For this reason, efficiency can exceed 90%.
 
