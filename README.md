@@ -1,1 +1,1 @@
-# Simulator_Class_D_Amp
+# Class D Amplifier Simulator
