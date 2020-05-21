@@ -31,7 +31,7 @@ An example of the plot of the Triangular Signal and the Input:
 ### 2.3. Pulse Width Modulation (pwm.m)
 This program makes the comparison between the Triangular Siganl and the Pulse Train obtaining the maximum value.
 
-  <img src="img/example1.JPG" width="677" align="center">
+  <img src="img/example2.JPG" width="677" align="center">
 
 ### 2.4. Amplification and Low-Pass Filter (Simulator.code)
 The amplification made by the transistors is simulated by a simple constant. After that, the program calculates the Discrete Fourier Transform (fft, Fast Fourier Transform, to be faster) to show and know the frecuencial components of the signal and to cut the undesiderable parts:
