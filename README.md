@@ -16,7 +16,7 @@ So, we will divide the program into the following blocks or sections:
 ### 2.1. Triangular Signal Generator (triangular.m)
 As I have said before, one important point of this project is to do not use Matlab Toolboxes. We could use the sawtooth function, but is included in the Signal Procesing Toolbox. So, consequently, I will use the convolution method (The convolution of two train pulses is a periodic triangular signal, as shown in the following figure). It is important to note that the frequency of the signal is choosen by the user.
 
-  <img src="img/conv.jfif" width="800" align="center">
+  <img src="img/conv.jfif" width="500" align="center">
   
 ### 2.2. Pulse Train Generator (pulseTrain.m)
 A program that creates a pulse train with the timeHigh/timeLow, amplitude and frequency chosen by the user. The timeHigh parameter is the percentage of the time of one period in which the signal stays at the high level.
