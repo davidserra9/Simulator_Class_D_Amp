@@ -7,6 +7,28 @@ A class-D Amplifier or a switching amplifier is an electronic amplifier in which
 
 Class-D amplifiers work by generating a train of rectangular pulses of fixed amplitude but varying width and separation, or varying number per unit time, representing the amplitude variations of the analog audio input signal.  The output of the modulator is then used to gate the output transistors on and off alternately. Great care is taken to ensure that the pair of transistors are never allowed to conduct together, as this would cause a short circuit between the supply rails through the transistors. A simple low-pass filter consisting of an inductor and a capacitor provides a path for the low frequencies of the audio signal, leaving the high-frequency pulses behind. The circuit then relies on the inductance of the loudspeaker to keep the HF component from heating up the voice coil.
 
+So, we will divide the program into the following blocks or sections:
+
+  <img src="img/BlockDiagram.png" width="800" align="center">
+  
+## 2. Code
+
+### 2.1. Triangular Signal Generator (triangular.m)
+As I have said before, one important point of this project is to do not use Matlab Toolboxes. We could use the sawtooth function, but is included in the Signal Procesing Toolbox. So, consequently, I will use the convolution method (The convolution of two train pulses is a periodic triangular signal, as shown in the following figure). It is important to note that the frequency of the signal is choosen by the user.
+
+  <img src="img/conv.jfif" width="800" align="center">
+  
+### 2.2. Pulse Train Generator (pulseTrain.m)
+A program that creates a pulse train with the timeHigh/timeLow, amplitude and frequency chosen by the user. The timeHigh parameter is the percentage of the time of one period in which the signal stays at the high level.
+
+### 2.3. 
+
+
+
+ 
+ 
+
+
 
 
 
