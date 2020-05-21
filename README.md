@@ -40,11 +40,11 @@ The amplification made by the transistors is simulated by a simple constant. Aft
   
 Then, the program applies the Low-Pass Filter. Using the Z-Transform on the Transfer Function of the filter with the values of RLC (Resistance, Inductance and Capacitance) desired by the user. An example of a plot with the Filter Response and the transformed PWM:
 
-  <img src="img/example4.JPG" width="485" align="center">
+  <img src="img/example4.JPG" width="643" align="center">
   
 And the Filtered PWM:
 
-  <img src="img/example5.JPG" width="485" align="center">
+  <img src="img/example5.JPG" width="504" align="center">
 
 ## References
 [1] J. S. Chang, Meng-Tong Tan, Zhihong Cheng and Yit-Chow Tong, "Analysis and design of power efficient class D amplifier output stages," in IEEE Transactions on Circuits and Systems I: Fundamental Theory and Applications, vol. 47, no. 6, pp. 897-902, June 2000, doi: 10.1109/81.852942.
