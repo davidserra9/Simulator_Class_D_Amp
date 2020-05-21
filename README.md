@@ -20,8 +20,16 @@ As I have said before, one important point of this project is to do not use Matl
   
 ### 2.2. Pulse Train Generator (pulseTrain.m)
 A program that creates a pulse train with the timeHigh/timeLow, amplitude and frequency chosen by the user. The timeHigh parameter is the percentage of the time of one period in which the signal stays at the high level.
+Besides having the possibility of the Pulse Train as the input signal, the user may have other posibilities such as the Triangular Signal or a Sinusoid Wave.
 
-### 2.3. 
+  <img src="img/inputSignal.JPG" width="300" align="center">
+
+
+### 2.3. Pulse Width Modulation (pwm.m)
+This program makes the comparison between the Triangular Siganl and the Pulse Train obtaining the maximum value.
+
+### 2.4. Amplification and Low-Pass Filter (Simulator.code)
+The amplification made by the transistors is simulated by a simple constant. 
 
 
 
