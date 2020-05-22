@@ -49,9 +49,13 @@ And the Filtered PWM:
 And the output result:
 
   <img src="img/example6.JPG" width="504" align="center">
+  
+## 3. Results and Conclusions
+The result is pretty good and it could be a good tool for the user to try some parameters before doing an actual and real Class-D Amplifier. It also calculates the cut-off frequency of the filter to facilitate the measurement of the user.
 
-
-
-
-## References
+## 4. References
 [1] J. S. Chang, Meng-Tong Tan, Zhihong Cheng and Yit-Chow Tong, "Analysis and design of power efficient class D amplifier output stages," in IEEE Transactions on Circuits and Systems I: Fundamental Theory and Applications, vol. 47, no. 6, pp. 897-902, June 2000, doi: 10.1109/81.852942.
+
+[2] K. P. Sozanski, R. Strzelecki and Z. Fedyczak, "Digital control circuit for class-D audio power amplifier," 2001 IEEE 32nd Annual Power Electronics Specialists Conference (IEEE Cat. No.01CH37230), Vancouver, BC, 2001, pp. 1245-1250 vol.2, doi: 10.1109/PESC.2001.954289.
+
+[3] T. Ge, H. He, J. Zhou, Y. Kang and J. S. Chang, "An investigation of THD of a BTL Class D amplifier," 2016 IEEE International Symposium on Circuits and Systems (ISCAS), Montreal, QC, 2016, pp. 470-473, doi: 10.1109/ISCAS.2016.7527279.
