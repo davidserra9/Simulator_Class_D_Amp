@@ -53,7 +53,7 @@ And the output result:
 ## 3. Results and Conclusions
 The result is pretty good and it could be a good tool for the user to try some parameters before doing an actual and real Class-D Amplifier. It also calculates the cut-off frequency of the filter to facilitate the measurement of the user.
 
-  <img src="img/completo.JPG" width="1920" align="center">
+  <img src="img/complete.JPG" width="1920" align="center">
 
 
 ## 4. References
