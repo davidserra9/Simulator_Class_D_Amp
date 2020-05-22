@@ -48,10 +48,13 @@ And the Filtered PWM:
   
 And the output result:
 
-  <img src="img/example6.JPG" width="504" align="center">
+  <img src="img/example6.JPG" width="656" align="center">
   
 ## 3. Results and Conclusions
 The result is pretty good and it could be a good tool for the user to try some parameters before doing an actual and real Class-D Amplifier. It also calculates the cut-off frequency of the filter to facilitate the measurement of the user.
+
+  <img src="img/completo.JPG" width="1920" align="center">
+
 
 ## 4. References
 [1] J. S. Chang, Meng-Tong Tan, Zhihong Cheng and Yit-Chow Tong, "Analysis and design of power efficient class D amplifier output stages," in IEEE Transactions on Circuits and Systems I: Fundamental Theory and Applications, vol. 47, no. 6, pp. 897-902, June 2000, doi: 10.1109/81.852942.
