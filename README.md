@@ -1,4 +1,4 @@
-# Class-D Amplifier Simulator with any Matlab Toolbox
+# Class-D Amplifier Simulator without Matlab Toolbox
 
 ## 1. Introduction
 The objective of this repository is to make and show a system that simulates a Class-D amplifier in a program without a Matlab Toolbox.
